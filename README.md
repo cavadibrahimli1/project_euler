@@ -9,13 +9,5 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 
 In this repo, I will share the solution codes of Project Euler questions. 
 
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-
 ## 🔗 You can read explanations on my Medium account.
-[![portfolio](https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png)](https://katherinempeterson.com/)
+[![portfolio](https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png)](https://medium.com/@javadibrahimli)
